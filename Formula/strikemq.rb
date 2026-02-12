@@ -1,8 +1,8 @@
 class Strikemq < Formula
   desc "Sub-millisecond Kafka-compatible message broker for development and testing"
   homepage "https://github.com/awneesht/Strike-mq"
-  url "https://github.com/awneesht/Strike-mq/archive/refs/tags/v0.1.4.tar.gz"
-  sha256 "dde3857e900c279da7cfe2ef4766c3384eeb86e56ecba02de0803bbf823c3872"
+  url "https://github.com/awneesht/Strike-mq/archive/refs/tags/v0.1.5.tar.gz"
+  sha256 "6f12f6a116910dce49f024c940181f3376c35bc55cbdd61536a189b1a78662a8"
   license "MIT"
 
   depends_on "cmake" => :build
